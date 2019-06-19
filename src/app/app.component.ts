@@ -10,10 +10,10 @@ export class AppComponent {
   title = 'b3globe';
   constructor(private router: Router) { }
 
-  loginRouter(){
-    alert();
-      this.router.navigate(['login']);
-    }
+  // loginRouter(){
+  //   alert();
+  //     this.router.navigate(['login']);
+  //   }
 
     
 }
